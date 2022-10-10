@@ -1,0 +1,3 @@
+selenium
+secure-smtplib
+schedule
